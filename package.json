@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "lab": "^18.0.2"
+  }
+}
